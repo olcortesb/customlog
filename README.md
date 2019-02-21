@@ -17,7 +17,6 @@ clogExample.logError("Error Log sample","variable");
 //Log Request
 clogExample.logRequest("Request Log sample","variable");
 
-
 //Log Response
 clogExample.logResponse("Response Log sample","variable");
 
